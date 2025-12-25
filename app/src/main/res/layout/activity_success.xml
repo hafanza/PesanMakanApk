@@ -19,7 +19,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="Terima kasih sudah memesan. Mohon tunggu dikiirm sampai kurir mengonfirmasi pesanan anda"
+        android:text="Terima kasih sudah memesan. Mohon tunggu dikirimm sampai kurir mengonfirmasi pesanan anda"
         android:textAlignment="center"
         android:textSize="16sp" />
 
