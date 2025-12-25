@@ -28,6 +28,6 @@ Aplikasi ini adalah prototipe sistem pemesanan makanan yang terdiri dari 8 layar
 
 | Screen 7 - Alamat | Screen 8 - Selesai |
 |---|---|
-| ![Screen 7](screenshots/screen7.png) | ![Screen 8](screenshots/screen.png)  |
+| ![Screen 7](screenshots/screen7.png) | ![Screen 8](screenshots/screen8.png)  |
 
 
